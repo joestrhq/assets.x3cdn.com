@@ -16,7 +16,7 @@
           <file name="bootstrap-reboot.css.map"></file>
           <file name="bootstrap-reboot.min.css"></file>
           <file name="bootstrap-reboot.min.css.map"></file>
-        </directory>
+      </directory>
         <directory name="js">
           <file name="bootstrap.bundle.js"></file>
           <file name="bootstrap.bundle.js.map"></file>
@@ -26,8 +26,8 @@
           <file name="bootstrap.js.map"></file>
           <file name="bootstrap.min.js"></file>
           <file name="bootstrap.min.js.map"></file>
-        </directory>
       </directory>
+    </directory>
       <directory name="4.6.2">
         <directory name="css">
           <file name="bootstrap.css"></file>
@@ -42,7 +42,7 @@
           <file name="bootstrap-reboot.css.map"></file>
           <file name="bootstrap-reboot.min.css"></file>
           <file name="bootstrap-reboot.min.css.map"></file>
-        </directory>
+      </directory>
         <directory name="js">
           <file name="bootstrap.bundle.js"></file>
           <file name="bootstrap.bundle.js.map"></file>
@@ -52,8 +52,8 @@
           <file name="bootstrap.js.map"></file>
           <file name="bootstrap.min.js"></file>
           <file name="bootstrap.min.js.map"></file>
-        </directory>
       </directory>
+    </directory>
       <directory name="5.1.0">
         <directory name="css">
           <file name="bootstrap.css"></file>
@@ -88,7 +88,7 @@
           <file name="bootstrap-utilities.rtl.css.map"></file>
           <file name="bootstrap-utilities.rtl.min.css"></file>
           <file name="bootstrap-utilities.rtl.min.css.map"></file>
-        </directory>
+      </directory>
         <directory name="js">
           <file name="bootstrap.bundle.js"></file>
           <file name="bootstrap.bundle.js.map"></file>
@@ -102,8 +102,8 @@
           <file name="bootstrap.js.map"></file>
           <file name="bootstrap.min.js"></file>
           <file name="bootstrap.min.js.map"></file>
-        </directory>
       </directory>
+    </directory>
       <directory name="5.1.3">
         <directory name="css">
           <file name="bootstrap.css"></file>
@@ -138,7 +138,7 @@
           <file name="bootstrap-utilities.rtl.css.map"></file>
           <file name="bootstrap-utilities.rtl.min.css"></file>
           <file name="bootstrap-utilities.rtl.min.css.map"></file>
-        </directory>
+      </directory>
         <directory name="js">
           <file name="bootstrap.bundle.js"></file>
           <file name="bootstrap.bundle.js.map"></file>
@@ -152,8 +152,8 @@
           <file name="bootstrap.js.map"></file>
           <file name="bootstrap.min.js"></file>
           <file name="bootstrap.min.js.map"></file>
-        </directory>
       </directory>
+    </directory>
       <directory name="5.2.0">
         <directory name="css">
           <file name="bootstrap.css"></file>
@@ -188,7 +188,7 @@
           <file name="bootstrap-utilities.rtl.css.map"></file>
           <file name="bootstrap-utilities.rtl.min.css"></file>
           <file name="bootstrap-utilities.rtl.min.css.map"></file>
-        </directory>
+      </directory>
         <directory name="js">
           <file name="bootstrap.bundle.js"></file>
           <file name="bootstrap.bundle.js.map"></file>
@@ -202,15 +202,165 @@
           <file name="bootstrap.js.map"></file>
           <file name="bootstrap.min.js"></file>
           <file name="bootstrap.min.js.map"></file>
-        </directory>
       </directory>
     </directory>
+      <directory name="5.2.2">
+        <directory name="css">
+          <file name="bootstrap.css"></file>
+          <file name="bootstrap.css.map"></file>
+          <file name="bootstrap-grid.css"></file>
+          <file name="bootstrap-grid.css.map"></file>
+          <file name="bootstrap-grid.min.css"></file>
+          <file name="bootstrap-grid.min.css.map"></file>
+          <file name="bootstrap-grid.rtl.css"></file>
+          <file name="bootstrap-grid.rtl.css.map"></file>
+          <file name="bootstrap-grid.rtl.min.css"></file>
+          <file name="bootstrap-grid.rtl.min.css.map"></file>
+          <file name="bootstrap.min.css"></file>
+          <file name="bootstrap.min.css.map"></file>
+          <file name="bootstrap-reboot.css"></file>
+          <file name="bootstrap-reboot.css.map"></file>
+          <file name="bootstrap-reboot.min.css"></file>
+          <file name="bootstrap-reboot.min.css.map"></file>
+          <file name="bootstrap-reboot.rtl.css"></file>
+          <file name="bootstrap-reboot.rtl.css.map"></file>
+          <file name="bootstrap-reboot.rtl.min.css"></file>
+          <file name="bootstrap-reboot.rtl.min.css.map"></file>
+          <file name="bootstrap.rtl.css"></file>
+          <file name="bootstrap.rtl.css.map"></file>
+          <file name="bootstrap.rtl.min.css"></file>
+          <file name="bootstrap.rtl.min.css.map"></file>
+          <file name="bootstrap-utilities.css"></file>
+          <file name="bootstrap-utilities.css.map"></file>
+          <file name="bootstrap-utilities.min.css"></file>
+          <file name="bootstrap-utilities.min.css.map"></file>
+          <file name="bootstrap-utilities.rtl.css"></file>
+          <file name="bootstrap-utilities.rtl.css.map"></file>
+          <file name="bootstrap-utilities.rtl.min.css"></file>
+          <file name="bootstrap-utilities.rtl.min.css.map"></file>
+      </directory>
+        <directory name="js">
+          <file name="bootstrap.bundle.js"></file>
+          <file name="bootstrap.bundle.js.map"></file>
+          <file name="bootstrap.bundle.min.js"></file>
+          <file name="bootstrap.bundle.min.js.map"></file>
+          <file name="bootstrap.esm.js"></file>
+          <file name="bootstrap.esm.js.map"></file>
+          <file name="bootstrap.esm.min.js"></file>
+          <file name="bootstrap.esm.min.js.map"></file>
+          <file name="bootstrap.js"></file>
+          <file name="bootstrap.js.map"></file>
+          <file name="bootstrap.min.js"></file>
+          <file name="bootstrap.min.js.map"></file>
+      </directory>
+    </directory>
+      <directory name="5.2.3">
+        <directory name="css">
+          <file name="bootstrap.css"></file>
+          <file name="bootstrap.css.map"></file>
+          <file name="bootstrap-grid.css"></file>
+          <file name="bootstrap-grid.css.map"></file>
+          <file name="bootstrap-grid.min.css"></file>
+          <file name="bootstrap-grid.min.css.map"></file>
+          <file name="bootstrap-grid.rtl.css"></file>
+          <file name="bootstrap-grid.rtl.css.map"></file>
+          <file name="bootstrap-grid.rtl.min.css"></file>
+          <file name="bootstrap-grid.rtl.min.css.map"></file>
+          <file name="bootstrap.min.css"></file>
+          <file name="bootstrap.min.css.map"></file>
+          <file name="bootstrap-reboot.css"></file>
+          <file name="bootstrap-reboot.css.map"></file>
+          <file name="bootstrap-reboot.min.css"></file>
+          <file name="bootstrap-reboot.min.css.map"></file>
+          <file name="bootstrap-reboot.rtl.css"></file>
+          <file name="bootstrap-reboot.rtl.css.map"></file>
+          <file name="bootstrap-reboot.rtl.min.css"></file>
+          <file name="bootstrap-reboot.rtl.min.css.map"></file>
+          <file name="bootstrap.rtl.css"></file>
+          <file name="bootstrap.rtl.css.map"></file>
+          <file name="bootstrap.rtl.min.css"></file>
+          <file name="bootstrap.rtl.min.css.map"></file>
+          <file name="bootstrap-utilities.css"></file>
+          <file name="bootstrap-utilities.css.map"></file>
+          <file name="bootstrap-utilities.min.css"></file>
+          <file name="bootstrap-utilities.min.css.map"></file>
+          <file name="bootstrap-utilities.rtl.css"></file>
+          <file name="bootstrap-utilities.rtl.css.map"></file>
+          <file name="bootstrap-utilities.rtl.min.css"></file>
+          <file name="bootstrap-utilities.rtl.min.css.map"></file>
+      </directory>
+        <directory name="js">
+          <file name="bootstrap.bundle.js"></file>
+          <file name="bootstrap.bundle.js.map"></file>
+          <file name="bootstrap.bundle.min.js"></file>
+          <file name="bootstrap.bundle.min.js.map"></file>
+          <file name="bootstrap.esm.js"></file>
+          <file name="bootstrap.esm.js.map"></file>
+          <file name="bootstrap.esm.min.js"></file>
+          <file name="bootstrap.esm.min.js.map"></file>
+          <file name="bootstrap.js"></file>
+          <file name="bootstrap.js.map"></file>
+          <file name="bootstrap.min.js"></file>
+          <file name="bootstrap.min.js.map"></file>
+      </directory>
+    </directory>
+      <directory name="5.3.0-alpha1">
+        <directory name="css">
+          <file name="bootstrap.css"></file>
+          <file name="bootstrap.css.map"></file>
+          <file name="bootstrap-grid.css"></file>
+          <file name="bootstrap-grid.css.map"></file>
+          <file name="bootstrap-grid.min.css"></file>
+          <file name="bootstrap-grid.min.css.map"></file>
+          <file name="bootstrap-grid.rtl.css"></file>
+          <file name="bootstrap-grid.rtl.css.map"></file>
+          <file name="bootstrap-grid.rtl.min.css"></file>
+          <file name="bootstrap-grid.rtl.min.css.map"></file>
+          <file name="bootstrap.min.css"></file>
+          <file name="bootstrap.min.css.map"></file>
+          <file name="bootstrap-reboot.css"></file>
+          <file name="bootstrap-reboot.css.map"></file>
+          <file name="bootstrap-reboot.min.css"></file>
+          <file name="bootstrap-reboot.min.css.map"></file>
+          <file name="bootstrap-reboot.rtl.css"></file>
+          <file name="bootstrap-reboot.rtl.css.map"></file>
+          <file name="bootstrap-reboot.rtl.min.css"></file>
+          <file name="bootstrap-reboot.rtl.min.css.map"></file>
+          <file name="bootstrap.rtl.css"></file>
+          <file name="bootstrap.rtl.css.map"></file>
+          <file name="bootstrap.rtl.min.css"></file>
+          <file name="bootstrap.rtl.min.css.map"></file>
+          <file name="bootstrap-utilities.css"></file>
+          <file name="bootstrap-utilities.css.map"></file>
+          <file name="bootstrap-utilities.min.css"></file>
+          <file name="bootstrap-utilities.min.css.map"></file>
+          <file name="bootstrap-utilities.rtl.css"></file>
+          <file name="bootstrap-utilities.rtl.css.map"></file>
+          <file name="bootstrap-utilities.rtl.min.css"></file>
+          <file name="bootstrap-utilities.rtl.min.css.map"></file>
+      </directory>
+        <directory name="js">
+          <file name="bootstrap.bundle.js"></file>
+          <file name="bootstrap.bundle.js.map"></file>
+          <file name="bootstrap.bundle.min.js"></file>
+          <file name="bootstrap.bundle.min.js.map"></file>
+          <file name="bootstrap.esm.js"></file>
+          <file name="bootstrap.esm.js.map"></file>
+          <file name="bootstrap.esm.min.js"></file>
+          <file name="bootstrap.esm.min.js.map"></file>
+          <file name="bootstrap.js"></file>
+          <file name="bootstrap.js.map"></file>
+          <file name="bootstrap.min.js"></file>
+          <file name="bootstrap.min.js.map"></file>
+      </directory>
+    </directory>
+  </directory>
     <directory name="bootstrap-icons">
       <directory name="1.5.0">
         <directory name="fonts">
           <file name="bootstrap-icons.woff"></file>
           <file name="bootstrap-icons.woff2"></file>
-        </directory>
+      </directory>
         <file name="alarm-fill.svg"></file>
         <file name="alarm.svg"></file>
         <file name="align-bottom.svg"></file>
@@ -1585,12 +1735,12 @@
         <file name="youtube.svg"></file>
         <file name="zoom-in.svg"></file>
         <file name="zoom-out.svg"></file>
-      </directory>
+    </directory>
       <directory name="1.6.0">
         <directory name="fonts">
           <file name="bootstrap-icons.woff"></file>
           <file name="bootstrap-icons.woff2"></file>
-        </directory>
+      </directory>
         <file name="activity.svg"></file>
         <file name="alarm-fill.svg"></file>
         <file name="alarm.svg"></file>
@@ -3002,27 +3152,27 @@
         <file name="youtube.svg"></file>
         <file name="zoom-in.svg"></file>
         <file name="zoom-out.svg"></file>
-      </directory>
+    </directory>
       <directory name="1.8.1">
         <directory name="build">
           <directory name="font">
             <file name="css.hbs"></file>
             <file name="html.hbs"></file>
             <file name="scss.hbs"></file>
-          </directory>
+        </directory>
           <file name="build-pages.js"></file>
           <file name="build-svgs.js"></file>
           <file name="vnu-jar.js"></file>
-        </directory>
+      </directory>
         <directory name="docs">
           <directory name="assets">
             <directory name="js">
               <directory name="vendor">
                 <file name="bootstrap.min.js"></file>
                 <file name="clipboard.min.js"></file>
-              </directory>
-              <file name="application.js"></file>
             </directory>
+              <file name="application.js"></file>
+          </directory>
             <directory name="scss">
               <file name="_ads.scss"></file>
               <file name="_buttons.scss"></file>
@@ -3034,8 +3184,8 @@
               <file name="_skippy.scss"></file>
               <file name="_syntax.scss"></file>
               <file name="_variables.scss"></file>
-            </directory>
           </directory>
+        </directory>
           <directory name="content">
             <directory name="icons">
               <file name="123.md"></file>
@@ -4706,23 +4856,23 @@
               <file name="youtube.md"></file>
               <file name="zoom-in.md"></file>
               <file name="zoom-out.md"></file>
-            </directory>
+          </directory>
             <file name="404.md"></file>
             <file name="_index.md"></file>
-          </directory>
+        </directory>
           <directory name="layouts">
             <directory name="_default">
               <file name="404.html"></file>
               <file name="home.html"></file>
-            </directory>
+          </directory>
             <directory name="icons">
               <file name="list.html"></file>
               <file name="single.html"></file>
-            </directory>
+          </directory>
             <directory name="partials">
               <directory name="home">
                 <file name="hero.html"></file>
-              </directory>
+            </directory>
               <directory name="icons">
                 <file name="bootstrap-logo-solid.svg"></file>
                 <file name="bootstrap-white-fill.svg"></file>
@@ -4730,7 +4880,7 @@
                 <file name="opencollective.svg"></file>
                 <file name="slack.svg"></file>
                 <file name="twitter.svg"></file>
-              </directory>
+            </directory>
               <file name="ads.html"></file>
               <file name="analytics.html"></file>
               <file name="favicons.html"></file>
@@ -4742,20 +4892,20 @@
               <file name="skippy.html"></file>
               <file name="social.html"></file>
               <file name="stylesheet.html"></file>
-            </directory>
+          </directory>
             <directory name="shortcodes">
               <file name="example.html"></file>
               <file name="md.html"></file>
-            </directory>
+          </directory>
             <file name="alias.html"></file>
             <file name="robots.txt"></file>
             <file name="sitemap.xml"></file>
-          </directory>
+        </directory>
           <directory name="static">
             <directory name="assets">
               <directory name="css">
                 <file name="bootstrap.min.css"></file>
-              </directory>
+            </directory>
               <directory name="img">
                 <directory name="favicons">
                   <file name="android-chrome-192x192.png"></file>
@@ -4766,29 +4916,29 @@
                   <file name="favicon.ico"></file>
                   <file name="manifest.json"></file>
                   <file name="safari-pinned-tab.svg"></file>
-                </directory>
+              </directory>
                 <file name="bootstrap-icons-social.png"></file>
                 <file name="bootstrap.svg"></file>
                 <file name="icons-hero@2x.png"></file>
                 <file name="icons-hero.png"></file>
-              </directory>
+            </directory>
               <directory name="js">
                 <file name="list.min.js"></file>
-              </directory>
             </directory>
-            <file name="CNAME"></file>
           </directory>
+            <file name="CNAME"></file>
         </directory>
+      </directory>
         <directory name="font">
           <directory name="fonts">
             <file name="bootstrap-icons.woff"></file>
             <file name="bootstrap-icons.woff2"></file>
-          </directory>
+        </directory>
           <file name="bootstrap-icons.css"></file>
           <file name="bootstrap-icons.json"></file>
           <file name="bootstrap-icons.scss"></file>
           <file name="index.html"></file>
-        </directory>
+      </directory>
         <directory name="icons">
           <file name="123.svg"></file>
           <file name="activity.svg"></file>
@@ -6458,7 +6608,7 @@
           <file name="youtube.svg"></file>
           <file name="zoom-in.svg"></file>
           <file name="zoom-out.svg"></file>
-        </directory>
+      </directory>
         <file name="bootstrap-icons.svg"></file>
         <file name="composer.json"></file>
         <file name="config.yml"></file>
@@ -6468,12 +6618,12 @@
         <file name="README.md"></file>
         <file name="svgo.config.js"></file>
         <file name="svg-sprite.json"></file>
-      </directory>
+    </directory>
       <directory name="1.8.3">
         <directory name="fonts">
           <file name="bootstrap-icons.woff"></file>
           <file name="bootstrap-icons.woff2"></file>
-        </directory>
+      </directory>
         <file name="123.svg"></file>
         <file name="activity.svg"></file>
         <file name="alarm-fill.svg"></file>
@@ -8147,12 +8297,12 @@
         <file name="youtube.svg"></file>
         <file name="zoom-in.svg"></file>
         <file name="zoom-out.svg"></file>
-      </directory>
+    </directory>
       <directory name="1.9.1">
         <directory name="fonts">
           <file name="bootstrap-icons.woff"></file>
           <file name="bootstrap-icons.woff2"></file>
-        </directory>
+      </directory>
         <file name="123.svg"></file>
         <file name="1-circle-fill.svg"></file>
         <file name="1-circle.svg"></file>
@@ -9969,24 +10119,24 @@
         <file name="youtube.svg"></file>
         <file name="zoom-in.svg"></file>
         <file name="zoom-out.svg"></file>
-      </directory>
     </directory>
+  </directory>
     <directory name="cookieconsent">
       <directory name="3.1.1">
         <file name="cookieconsent.min.css"></file>
         <file name="cookieconsent.min.js"></file>
-      </directory>
     </directory>
+  </directory>
     <directory name="d3">
       <directory name="7.1.1">
         <file name="d3.js"></file>
         <file name="d3.min.js"></file>
-      </directory>
+    </directory>
       <directory name="7.4.4">
         <file name="d3.js"></file>
         <file name="d3.min.js"></file>
-      </directory>
     </directory>
+  </directory>
     <directory name="fontawesome-free-web">
       <directory name="5.14.0">
         <directory name="css">
@@ -10004,7 +10154,7 @@
           <file name="svg-with-js.min.css"></file>
           <file name="v4-shims.css"></file>
           <file name="v4-shims.min.css"></file>
-        </directory>
+      </directory>
         <directory name="js">
           <file name="all.js"></file>
           <file name="all.min.js"></file>
@@ -10020,7 +10170,7 @@
           <file name="solid.min.js"></file>
           <file name="v4-shims.js"></file>
           <file name="v4-shims.min.js"></file>
-        </directory>
+      </directory>
         <directory name="less">
           <file name="_animated.less"></file>
           <file name="_bordered-pulled.less"></file>
@@ -10040,7 +10190,7 @@
           <file name="_stacked.less"></file>
           <file name="v4-shims.less"></file>
           <file name="_variables.less"></file>
-        </directory>
+      </directory>
         <directory name="metadata">
           <file name="categories.yml"></file>
           <file name="icons.json"></file>
@@ -10048,7 +10198,7 @@
           <file name="shims.json"></file>
           <file name="shims.yml"></file>
           <file name="sponsors.yml"></file>
-        </directory>
+      </directory>
         <directory name="scss">
           <file name="_animated.scss"></file>
           <file name="_bordered-pulled.scss"></file>
@@ -10068,12 +10218,12 @@
           <file name="_stacked.scss"></file>
           <file name="v4-shims.scss"></file>
           <file name="_variables.scss"></file>
-        </directory>
+      </directory>
         <directory name="sprites">
           <file name="brands.svg"></file>
           <file name="regular.svg"></file>
           <file name="solid.svg"></file>
-        </directory>
+      </directory>
         <directory name="svgs">
           <directory name="brands">
             <file name="500px.svg"></file>
@@ -10525,7 +10675,7 @@
             <file name="youtube-square.svg"></file>
             <file name="youtube.svg"></file>
             <file name="zhihu.svg"></file>
-          </directory>
+        </directory>
           <directory name="regular">
             <file name="address-book.svg"></file>
             <file name="address-card.svg"></file>
@@ -10679,7 +10829,7 @@
             <file name="window-maximize.svg"></file>
             <file name="window-minimize.svg"></file>
             <file name="window-restore.svg"></file>
-          </directory>
+        </directory>
           <directory name="solid">
             <file name="address-book.svg"></file>
             <file name="address-card.svg"></file>
@@ -11681,8 +11831,8 @@
             <file name="x-ray.svg"></file>
             <file name="yen-sign.svg"></file>
             <file name="yin-yang.svg"></file>
-          </directory>
         </directory>
+      </directory>
         <directory name="webfonts">
           <file name="fa-brands-400.eot"></file>
           <file name="fa-brands-400.svg"></file>
@@ -11699,9 +11849,9 @@
           <file name="fa-solid-900.ttf"></file>
           <file name="fa-solid-900.woff"></file>
           <file name="fa-solid-900.woff2"></file>
-        </directory>
-        <file name="LICENSE.txt"></file>
       </directory>
+        <file name="LICENSE.txt"></file>
+    </directory>
       <directory name="5.15.4">
         <directory name="css">
           <file name="all.css"></file>
@@ -11718,7 +11868,7 @@
           <file name="svg-with-js.min.css"></file>
           <file name="v4-shims.css"></file>
           <file name="v4-shims.min.css"></file>
-        </directory>
+      </directory>
         <directory name="js">
           <file name="all.js"></file>
           <file name="all.min.js"></file>
@@ -11734,7 +11884,7 @@
           <file name="solid.min.js"></file>
           <file name="v4-shims.js"></file>
           <file name="v4-shims.min.js"></file>
-        </directory>
+      </directory>
         <directory name="less">
           <file name="_animated.less"></file>
           <file name="_bordered-pulled.less"></file>
@@ -11754,7 +11904,7 @@
           <file name="_stacked.less"></file>
           <file name="v4-shims.less"></file>
           <file name="_variables.less"></file>
-        </directory>
+      </directory>
         <directory name="metadata">
           <file name="categories.yml"></file>
           <file name="icons.json"></file>
@@ -11762,7 +11912,7 @@
           <file name="shims.json"></file>
           <file name="shims.yml"></file>
           <file name="sponsors.yml"></file>
-        </directory>
+      </directory>
         <directory name="scss">
           <file name="_animated.scss"></file>
           <file name="_bordered-pulled.scss"></file>
@@ -11782,12 +11932,12 @@
           <file name="_stacked.scss"></file>
           <file name="v4-shims.scss"></file>
           <file name="_variables.scss"></file>
-        </directory>
+      </directory>
         <directory name="sprites">
           <file name="brands.svg"></file>
           <file name="regular.svg"></file>
           <file name="solid.svg"></file>
-        </directory>
+      </directory>
         <directory name="svgs">
           <directory name="brands">
             <file name="500px.svg"></file>
@@ -12247,7 +12397,7 @@
             <file name="youtube-square.svg"></file>
             <file name="youtube.svg"></file>
             <file name="zhihu.svg"></file>
-          </directory>
+        </directory>
           <directory name="regular">
             <file name="address-book.svg"></file>
             <file name="address-card.svg"></file>
@@ -12401,7 +12551,7 @@
             <file name="window-maximize.svg"></file>
             <file name="window-minimize.svg"></file>
             <file name="window-restore.svg"></file>
-          </directory>
+        </directory>
           <directory name="solid">
             <file name="address-book.svg"></file>
             <file name="address-card.svg"></file>
@@ -13405,8 +13555,8 @@
             <file name="x-ray.svg"></file>
             <file name="yen-sign.svg"></file>
             <file name="yin-yang.svg"></file>
-          </directory>
         </directory>
+      </directory>
         <directory name="webfonts">
           <file name="fa-brands-400.eot"></file>
           <file name="fa-brands-400.svg"></file>
@@ -13423,10 +13573,10 @@
           <file name="fa-solid-900.ttf"></file>
           <file name="fa-solid-900.woff"></file>
           <file name="fa-solid-900.woff2"></file>
-        </directory>
+      </directory>
         <file name="attribution.js"></file>
         <file name="LICENSE.txt"></file>
-      </directory>
+    </directory>
       <directory name="6.0.0-beta2">
         <directory name="css">
           <file name="all.css"></file>
@@ -13443,7 +13593,7 @@
           <file name="svg-with-js.min.css"></file>
           <file name="v4-shims.css"></file>
           <file name="v4-shims.min.css"></file>
-        </directory>
+      </directory>
         <directory name="js">
           <file name="all.js"></file>
           <file name="all.min.js"></file>
@@ -13459,7 +13609,7 @@
           <file name="solid.min.js"></file>
           <file name="v4-shims.js"></file>
           <file name="v4-shims.min.js"></file>
-        </directory>
+      </directory>
         <directory name="less">
           <file name="_animated.less"></file>
           <file name="_bordered-pulled.less"></file>
@@ -13479,7 +13629,7 @@
           <file name="_stacked.less"></file>
           <file name="v4-shims.less"></file>
           <file name="_variables.less"></file>
-        </directory>
+      </directory>
         <directory name="scss">
           <file name="_animated.scss"></file>
           <file name="_bordered-pulled.scss"></file>
@@ -13500,12 +13650,12 @@
           <file name="_stacked.scss"></file>
           <file name="v4-shims.scss"></file>
           <file name="_variables.scss"></file>
-        </directory>
+      </directory>
         <directory name="sprites">
           <file name="brands.svg"></file>
           <file name="regular.svg"></file>
           <file name="solid.svg"></file>
-        </directory>
+      </directory>
         <directory name="svgs">
           <directory name="brands">
             <file name="42-group.svg"></file>
@@ -13967,7 +14117,7 @@
             <file name="youtube-square.svg"></file>
             <file name="youtube.svg"></file>
             <file name="zhihu.svg"></file>
-          </directory>
+        </directory>
           <directory name="regular">
             <file name="address-book.svg"></file>
             <file name="address-card.svg"></file>
@@ -14128,7 +14278,7 @@
             <file name="window-maximize.svg"></file>
             <file name="window-minimize.svg"></file>
             <file name="window-restore.svg"></file>
-          </directory>
+        </directory>
           <directory name="solid">
             <file name="0.svg"></file>
             <file name="1.svg"></file>
@@ -15216,8 +15366,8 @@
             <file name="yin-yang.svg"></file>
             <file name="y.svg"></file>
             <file name="z.svg"></file>
-          </directory>
         </directory>
+      </directory>
         <directory name="webfonts">
           <file name="fa-brands-400.ttf"></file>
           <file name="fa-brands-400.woff2"></file>
@@ -15225,10 +15375,10 @@
           <file name="fa-regular-400.woff2"></file>
           <file name="fa-solid-900.ttf"></file>
           <file name="fa-solid-900.woff2"></file>
-        </directory>
+      </directory>
         <file name="attribution.js"></file>
         <file name="LICENSE.txt"></file>
-      </directory>
+    </directory>
       <directory name="6.1.1">
         <directory name="css">
           <file name="all.css"></file>
@@ -15249,7 +15399,7 @@
           <file name="v4-shims.min.css"></file>
           <file name="v5-font-face.css"></file>
           <file name="v5-font-face.min.css"></file>
-        </directory>
+      </directory>
         <directory name="js">
           <file name="all.js"></file>
           <file name="all.min.js"></file>
@@ -15265,7 +15415,7 @@
           <file name="solid.min.js"></file>
           <file name="v4-shims.js"></file>
           <file name="v4-shims.min.js"></file>
-        </directory>
+      </directory>
         <directory name="less">
           <file name="_animated.less"></file>
           <file name="_bordered-pulled.less"></file>
@@ -15285,7 +15435,7 @@
           <file name="_stacked.less"></file>
           <file name="v4-shims.less"></file>
           <file name="_variables.less"></file>
-        </directory>
+      </directory>
         <directory name="metadata">
           <file name="categories.yml"></file>
           <file name="icons.json"></file>
@@ -15293,7 +15443,7 @@
           <file name="shims.json"></file>
           <file name="shims.yml"></file>
           <file name="sponsors.yml"></file>
-        </directory>
+      </directory>
         <directory name="scss">
           <file name="_animated.scss"></file>
           <file name="_bordered-pulled.scss"></file>
@@ -15314,12 +15464,12 @@
           <file name="_stacked.scss"></file>
           <file name="v4-shims.scss"></file>
           <file name="_variables.scss"></file>
-        </directory>
+      </directory>
         <directory name="sprites">
           <file name="brands.svg"></file>
           <file name="regular.svg"></file>
           <file name="solid.svg"></file>
-        </directory>
+      </directory>
         <directory name="svgs">
           <directory name="brands">
             <file name="42-group.svg"></file>
@@ -15784,7 +15934,7 @@
             <file name="youtube-square.svg"></file>
             <file name="youtube.svg"></file>
             <file name="zhihu.svg"></file>
-          </directory>
+        </directory>
           <directory name="regular">
             <file name="address-book.svg"></file>
             <file name="address-card.svg"></file>
@@ -15948,7 +16098,7 @@
             <file name="window-maximize.svg"></file>
             <file name="window-minimize.svg"></file>
             <file name="window-restore.svg"></file>
-          </directory>
+        </directory>
           <directory name="solid">
             <file name="0.svg"></file>
             <file name="1.svg"></file>
@@ -17335,8 +17485,8 @@
             <file name="yin-yang.svg"></file>
             <file name="y.svg"></file>
             <file name="z.svg"></file>
-          </directory>
         </directory>
+      </directory>
         <directory name="webfonts">
           <file name="fa-brands-400.ttf"></file>
           <file name="fa-brands-400.woff2"></file>
@@ -17346,22 +17496,22 @@
           <file name="fa-solid-900.woff2"></file>
           <file name="fa-v4compatibility.ttf"></file>
           <file name="fa-v4compatibility.woff2"></file>
-        </directory>
-        <file name="LICENSE.txt"></file>
       </directory>
+        <file name="LICENSE.txt"></file>
     </directory>
+  </directory>
     <directory name="jquery">
       <directory name="3.5.1">
         <file name="jquery.js"></file>
         <file name="jquery.min.js"></file>
         <file name="jquery.min.map"></file>
-      </directory>
+    </directory>
       <directory name="3.6.0">
         <file name="jquery-3.6.0.js"></file>
         <file name="jquery-3.6.0.min.js"></file>
         <file name="jquery-3.6.0.min.map"></file>
-      </directory>
     </directory>
+  </directory>
     <directory name="popper.js">
       <directory name="1.16.0">
         <file name="popper.js"></file>
@@ -17373,20 +17523,20 @@
         <file name="popper-utils.js.map"></file>
         <file name="popper-utils.min.js"></file>
         <file name="popper-utils.min.js.map"></file>
-      </directory>
     </directory>
+  </directory>
     <directory name="qunit">
       <directory name="2.17.2">
         <file name="qunit.css"></file>
         <file name="qunit.js"></file>
-      </directory>
     </directory>
+  </directory>
     <directory name="select2">
       <directory name="4.0.13">
         <directory name="css">
           <file name="select2.css"></file>
           <file name="select2.min.css"></file>
-        </directory>
+      </directory>
         <directory name="js">
           <directory name="i18n">
             <file name="af.js"></file>
@@ -17449,31 +17599,31 @@
             <file name="vi.js"></file>
             <file name="zh-CN.js"></file>
             <file name="zh-TW.js"></file>
-          </directory>
+        </directory>
           <file name="select2.full.js"></file>
           <file name="select2.full.min.js"></file>
           <file name="select2.js"></file>
           <file name="select2.min.js"></file>
-        </directory>
       </directory>
     </directory>
+  </directory>
     <directory name="w3.css">
       <directory name="4.13">
         <file name="w3.css"></file>
-      </directory>
+    </directory>
       <directory name="4.15">
         <file name="w3.css"></file>
-      </directory>
     </directory>
+  </directory>
     <directory name="w3.js">
       <directory name="1.04">
         <file name="w3.js"></file>
-      </directory>
     </directory>
+  </directory>
     <file name="robots.txt"></file>
   </directory>
   <report>
-    <directories>121</directories>
-    <files>17228</files>
+    <directories>130</directories>
+    <files>17360</files>
   </report>
 </tree>

@@ -1,4 +1,5 @@
-[{"type":"directory","name": ".","contents":[
+[
+  {"type":"directory","name":".","contents":[
     {"type":"directory","name":"bootstrap","contents":[
       {"type":"directory","name":"4.5.0","contents":[
         {"type":"directory","name":"css","contents":[
@@ -14,7 +15,7 @@
           {"type":"file","name":"bootstrap-reboot.css.map"},
           {"type":"file","name":"bootstrap-reboot.min.css"},
           {"type":"file","name":"bootstrap-reboot.min.css.map"}
-        ]},
+      ]},
         {"type":"directory","name":"js","contents":[
           {"type":"file","name":"bootstrap.bundle.js"},
           {"type":"file","name":"bootstrap.bundle.js.map"},
@@ -24,8 +25,8 @@
           {"type":"file","name":"bootstrap.js.map"},
           {"type":"file","name":"bootstrap.min.js"},
           {"type":"file","name":"bootstrap.min.js.map"}
-        ]}
-      ]},
+      ]}
+    ]},
       {"type":"directory","name":"4.6.2","contents":[
         {"type":"directory","name":"css","contents":[
           {"type":"file","name":"bootstrap.css"},
@@ -40,7 +41,7 @@
           {"type":"file","name":"bootstrap-reboot.css.map"},
           {"type":"file","name":"bootstrap-reboot.min.css"},
           {"type":"file","name":"bootstrap-reboot.min.css.map"}
-        ]},
+      ]},
         {"type":"directory","name":"js","contents":[
           {"type":"file","name":"bootstrap.bundle.js"},
           {"type":"file","name":"bootstrap.bundle.js.map"},
@@ -50,8 +51,8 @@
           {"type":"file","name":"bootstrap.js.map"},
           {"type":"file","name":"bootstrap.min.js"},
           {"type":"file","name":"bootstrap.min.js.map"}
-        ]}
-      ]},
+      ]}
+    ]},
       {"type":"directory","name":"5.1.0","contents":[
         {"type":"directory","name":"css","contents":[
           {"type":"file","name":"bootstrap.css"},
@@ -86,7 +87,7 @@
           {"type":"file","name":"bootstrap-utilities.rtl.css.map"},
           {"type":"file","name":"bootstrap-utilities.rtl.min.css"},
           {"type":"file","name":"bootstrap-utilities.rtl.min.css.map"}
-        ]},
+      ]},
         {"type":"directory","name":"js","contents":[
           {"type":"file","name":"bootstrap.bundle.js"},
           {"type":"file","name":"bootstrap.bundle.js.map"},
@@ -100,8 +101,8 @@
           {"type":"file","name":"bootstrap.js.map"},
           {"type":"file","name":"bootstrap.min.js"},
           {"type":"file","name":"bootstrap.min.js.map"}
-        ]}
-      ]},
+      ]}
+    ]},
       {"type":"directory","name":"5.1.3","contents":[
         {"type":"directory","name":"css","contents":[
           {"type":"file","name":"bootstrap.css"},
@@ -136,7 +137,7 @@
           {"type":"file","name":"bootstrap-utilities.rtl.css.map"},
           {"type":"file","name":"bootstrap-utilities.rtl.min.css"},
           {"type":"file","name":"bootstrap-utilities.rtl.min.css.map"}
-        ]},
+      ]},
         {"type":"directory","name":"js","contents":[
           {"type":"file","name":"bootstrap.bundle.js"},
           {"type":"file","name":"bootstrap.bundle.js.map"},
@@ -150,8 +151,8 @@
           {"type":"file","name":"bootstrap.js.map"},
           {"type":"file","name":"bootstrap.min.js"},
           {"type":"file","name":"bootstrap.min.js.map"}
-        ]}
-      ]},
+      ]}
+    ]},
       {"type":"directory","name":"5.2.0","contents":[
         {"type":"directory","name":"css","contents":[
           {"type":"file","name":"bootstrap.css"},
@@ -186,7 +187,7 @@
           {"type":"file","name":"bootstrap-utilities.rtl.css.map"},
           {"type":"file","name":"bootstrap-utilities.rtl.min.css"},
           {"type":"file","name":"bootstrap-utilities.rtl.min.css.map"}
-        ]},
+      ]},
         {"type":"directory","name":"js","contents":[
           {"type":"file","name":"bootstrap.bundle.js"},
           {"type":"file","name":"bootstrap.bundle.js.map"},
@@ -200,15 +201,165 @@
           {"type":"file","name":"bootstrap.js.map"},
           {"type":"file","name":"bootstrap.min.js"},
           {"type":"file","name":"bootstrap.min.js.map"}
-        ]}
       ]}
     ]},
+      {"type":"directory","name":"5.2.2","contents":[
+        {"type":"directory","name":"css","contents":[
+          {"type":"file","name":"bootstrap.css"},
+          {"type":"file","name":"bootstrap.css.map"},
+          {"type":"file","name":"bootstrap-grid.css"},
+          {"type":"file","name":"bootstrap-grid.css.map"},
+          {"type":"file","name":"bootstrap-grid.min.css"},
+          {"type":"file","name":"bootstrap-grid.min.css.map"},
+          {"type":"file","name":"bootstrap-grid.rtl.css"},
+          {"type":"file","name":"bootstrap-grid.rtl.css.map"},
+          {"type":"file","name":"bootstrap-grid.rtl.min.css"},
+          {"type":"file","name":"bootstrap-grid.rtl.min.css.map"},
+          {"type":"file","name":"bootstrap.min.css"},
+          {"type":"file","name":"bootstrap.min.css.map"},
+          {"type":"file","name":"bootstrap-reboot.css"},
+          {"type":"file","name":"bootstrap-reboot.css.map"},
+          {"type":"file","name":"bootstrap-reboot.min.css"},
+          {"type":"file","name":"bootstrap-reboot.min.css.map"},
+          {"type":"file","name":"bootstrap-reboot.rtl.css"},
+          {"type":"file","name":"bootstrap-reboot.rtl.css.map"},
+          {"type":"file","name":"bootstrap-reboot.rtl.min.css"},
+          {"type":"file","name":"bootstrap-reboot.rtl.min.css.map"},
+          {"type":"file","name":"bootstrap.rtl.css"},
+          {"type":"file","name":"bootstrap.rtl.css.map"},
+          {"type":"file","name":"bootstrap.rtl.min.css"},
+          {"type":"file","name":"bootstrap.rtl.min.css.map"},
+          {"type":"file","name":"bootstrap-utilities.css"},
+          {"type":"file","name":"bootstrap-utilities.css.map"},
+          {"type":"file","name":"bootstrap-utilities.min.css"},
+          {"type":"file","name":"bootstrap-utilities.min.css.map"},
+          {"type":"file","name":"bootstrap-utilities.rtl.css"},
+          {"type":"file","name":"bootstrap-utilities.rtl.css.map"},
+          {"type":"file","name":"bootstrap-utilities.rtl.min.css"},
+          {"type":"file","name":"bootstrap-utilities.rtl.min.css.map"}
+      ]},
+        {"type":"directory","name":"js","contents":[
+          {"type":"file","name":"bootstrap.bundle.js"},
+          {"type":"file","name":"bootstrap.bundle.js.map"},
+          {"type":"file","name":"bootstrap.bundle.min.js"},
+          {"type":"file","name":"bootstrap.bundle.min.js.map"},
+          {"type":"file","name":"bootstrap.esm.js"},
+          {"type":"file","name":"bootstrap.esm.js.map"},
+          {"type":"file","name":"bootstrap.esm.min.js"},
+          {"type":"file","name":"bootstrap.esm.min.js.map"},
+          {"type":"file","name":"bootstrap.js"},
+          {"type":"file","name":"bootstrap.js.map"},
+          {"type":"file","name":"bootstrap.min.js"},
+          {"type":"file","name":"bootstrap.min.js.map"}
+      ]}
+    ]},
+      {"type":"directory","name":"5.2.3","contents":[
+        {"type":"directory","name":"css","contents":[
+          {"type":"file","name":"bootstrap.css"},
+          {"type":"file","name":"bootstrap.css.map"},
+          {"type":"file","name":"bootstrap-grid.css"},
+          {"type":"file","name":"bootstrap-grid.css.map"},
+          {"type":"file","name":"bootstrap-grid.min.css"},
+          {"type":"file","name":"bootstrap-grid.min.css.map"},
+          {"type":"file","name":"bootstrap-grid.rtl.css"},
+          {"type":"file","name":"bootstrap-grid.rtl.css.map"},
+          {"type":"file","name":"bootstrap-grid.rtl.min.css"},
+          {"type":"file","name":"bootstrap-grid.rtl.min.css.map"},
+          {"type":"file","name":"bootstrap.min.css"},
+          {"type":"file","name":"bootstrap.min.css.map"},
+          {"type":"file","name":"bootstrap-reboot.css"},
+          {"type":"file","name":"bootstrap-reboot.css.map"},
+          {"type":"file","name":"bootstrap-reboot.min.css"},
+          {"type":"file","name":"bootstrap-reboot.min.css.map"},
+          {"type":"file","name":"bootstrap-reboot.rtl.css"},
+          {"type":"file","name":"bootstrap-reboot.rtl.css.map"},
+          {"type":"file","name":"bootstrap-reboot.rtl.min.css"},
+          {"type":"file","name":"bootstrap-reboot.rtl.min.css.map"},
+          {"type":"file","name":"bootstrap.rtl.css"},
+          {"type":"file","name":"bootstrap.rtl.css.map"},
+          {"type":"file","name":"bootstrap.rtl.min.css"},
+          {"type":"file","name":"bootstrap.rtl.min.css.map"},
+          {"type":"file","name":"bootstrap-utilities.css"},
+          {"type":"file","name":"bootstrap-utilities.css.map"},
+          {"type":"file","name":"bootstrap-utilities.min.css"},
+          {"type":"file","name":"bootstrap-utilities.min.css.map"},
+          {"type":"file","name":"bootstrap-utilities.rtl.css"},
+          {"type":"file","name":"bootstrap-utilities.rtl.css.map"},
+          {"type":"file","name":"bootstrap-utilities.rtl.min.css"},
+          {"type":"file","name":"bootstrap-utilities.rtl.min.css.map"}
+      ]},
+        {"type":"directory","name":"js","contents":[
+          {"type":"file","name":"bootstrap.bundle.js"},
+          {"type":"file","name":"bootstrap.bundle.js.map"},
+          {"type":"file","name":"bootstrap.bundle.min.js"},
+          {"type":"file","name":"bootstrap.bundle.min.js.map"},
+          {"type":"file","name":"bootstrap.esm.js"},
+          {"type":"file","name":"bootstrap.esm.js.map"},
+          {"type":"file","name":"bootstrap.esm.min.js"},
+          {"type":"file","name":"bootstrap.esm.min.js.map"},
+          {"type":"file","name":"bootstrap.js"},
+          {"type":"file","name":"bootstrap.js.map"},
+          {"type":"file","name":"bootstrap.min.js"},
+          {"type":"file","name":"bootstrap.min.js.map"}
+      ]}
+    ]},
+      {"type":"directory","name":"5.3.0-alpha1","contents":[
+        {"type":"directory","name":"css","contents":[
+          {"type":"file","name":"bootstrap.css"},
+          {"type":"file","name":"bootstrap.css.map"},
+          {"type":"file","name":"bootstrap-grid.css"},
+          {"type":"file","name":"bootstrap-grid.css.map"},
+          {"type":"file","name":"bootstrap-grid.min.css"},
+          {"type":"file","name":"bootstrap-grid.min.css.map"},
+          {"type":"file","name":"bootstrap-grid.rtl.css"},
+          {"type":"file","name":"bootstrap-grid.rtl.css.map"},
+          {"type":"file","name":"bootstrap-grid.rtl.min.css"},
+          {"type":"file","name":"bootstrap-grid.rtl.min.css.map"},
+          {"type":"file","name":"bootstrap.min.css"},
+          {"type":"file","name":"bootstrap.min.css.map"},
+          {"type":"file","name":"bootstrap-reboot.css"},
+          {"type":"file","name":"bootstrap-reboot.css.map"},
+          {"type":"file","name":"bootstrap-reboot.min.css"},
+          {"type":"file","name":"bootstrap-reboot.min.css.map"},
+          {"type":"file","name":"bootstrap-reboot.rtl.css"},
+          {"type":"file","name":"bootstrap-reboot.rtl.css.map"},
+          {"type":"file","name":"bootstrap-reboot.rtl.min.css"},
+          {"type":"file","name":"bootstrap-reboot.rtl.min.css.map"},
+          {"type":"file","name":"bootstrap.rtl.css"},
+          {"type":"file","name":"bootstrap.rtl.css.map"},
+          {"type":"file","name":"bootstrap.rtl.min.css"},
+          {"type":"file","name":"bootstrap.rtl.min.css.map"},
+          {"type":"file","name":"bootstrap-utilities.css"},
+          {"type":"file","name":"bootstrap-utilities.css.map"},
+          {"type":"file","name":"bootstrap-utilities.min.css"},
+          {"type":"file","name":"bootstrap-utilities.min.css.map"},
+          {"type":"file","name":"bootstrap-utilities.rtl.css"},
+          {"type":"file","name":"bootstrap-utilities.rtl.css.map"},
+          {"type":"file","name":"bootstrap-utilities.rtl.min.css"},
+          {"type":"file","name":"bootstrap-utilities.rtl.min.css.map"}
+      ]},
+        {"type":"directory","name":"js","contents":[
+          {"type":"file","name":"bootstrap.bundle.js"},
+          {"type":"file","name":"bootstrap.bundle.js.map"},
+          {"type":"file","name":"bootstrap.bundle.min.js"},
+          {"type":"file","name":"bootstrap.bundle.min.js.map"},
+          {"type":"file","name":"bootstrap.esm.js"},
+          {"type":"file","name":"bootstrap.esm.js.map"},
+          {"type":"file","name":"bootstrap.esm.min.js"},
+          {"type":"file","name":"bootstrap.esm.min.js.map"},
+          {"type":"file","name":"bootstrap.js"},
+          {"type":"file","name":"bootstrap.js.map"},
+          {"type":"file","name":"bootstrap.min.js"},
+          {"type":"file","name":"bootstrap.min.js.map"}
+      ]}
+    ]}
+  ]},
     {"type":"directory","name":"bootstrap-icons","contents":[
       {"type":"directory","name":"1.5.0","contents":[
         {"type":"directory","name":"fonts","contents":[
           {"type":"file","name":"bootstrap-icons.woff"},
           {"type":"file","name":"bootstrap-icons.woff2"}
-        ]},
+      ]},
         {"type":"file","name":"alarm-fill.svg"},
         {"type":"file","name":"alarm.svg"},
         {"type":"file","name":"align-bottom.svg"},
@@ -1583,12 +1734,12 @@
         {"type":"file","name":"youtube.svg"},
         {"type":"file","name":"zoom-in.svg"},
         {"type":"file","name":"zoom-out.svg"}
-      ]},
+    ]},
       {"type":"directory","name":"1.6.0","contents":[
         {"type":"directory","name":"fonts","contents":[
           {"type":"file","name":"bootstrap-icons.woff"},
           {"type":"file","name":"bootstrap-icons.woff2"}
-        ]},
+      ]},
         {"type":"file","name":"activity.svg"},
         {"type":"file","name":"alarm-fill.svg"},
         {"type":"file","name":"alarm.svg"},
@@ -3000,27 +3151,27 @@
         {"type":"file","name":"youtube.svg"},
         {"type":"file","name":"zoom-in.svg"},
         {"type":"file","name":"zoom-out.svg"}
-      ]},
+    ]},
       {"type":"directory","name":"1.8.1","contents":[
         {"type":"directory","name":"build","contents":[
           {"type":"directory","name":"font","contents":[
             {"type":"file","name":"css.hbs"},
             {"type":"file","name":"html.hbs"},
             {"type":"file","name":"scss.hbs"}
-          ]},
+        ]},
           {"type":"file","name":"build-pages.js"},
           {"type":"file","name":"build-svgs.js"},
           {"type":"file","name":"vnu-jar.js"}
-        ]},
+      ]},
         {"type":"directory","name":"docs","contents":[
           {"type":"directory","name":"assets","contents":[
             {"type":"directory","name":"js","contents":[
               {"type":"directory","name":"vendor","contents":[
                 {"type":"file","name":"bootstrap.min.js"},
                 {"type":"file","name":"clipboard.min.js"}
-              ]},
-              {"type":"file","name":"application.js"}
             ]},
+              {"type":"file","name":"application.js"}
+          ]},
             {"type":"directory","name":"scss","contents":[
               {"type":"file","name":"_ads.scss"},
               {"type":"file","name":"_buttons.scss"},
@@ -3032,8 +3183,8 @@
               {"type":"file","name":"_skippy.scss"},
               {"type":"file","name":"_syntax.scss"},
               {"type":"file","name":"_variables.scss"}
-            ]}
-          ]},
+          ]}
+        ]},
           {"type":"directory","name":"content","contents":[
             {"type":"directory","name":"icons","contents":[
               {"type":"file","name":"123.md"},
@@ -4704,23 +4855,23 @@
               {"type":"file","name":"youtube.md"},
               {"type":"file","name":"zoom-in.md"},
               {"type":"file","name":"zoom-out.md"}
-            ]},
+          ]},
             {"type":"file","name":"404.md"},
             {"type":"file","name":"_index.md"}
-          ]},
+        ]},
           {"type":"directory","name":"layouts","contents":[
             {"type":"directory","name":"_default","contents":[
               {"type":"file","name":"404.html"},
               {"type":"file","name":"home.html"}
-            ]},
+          ]},
             {"type":"directory","name":"icons","contents":[
               {"type":"file","name":"list.html"},
               {"type":"file","name":"single.html"}
-            ]},
+          ]},
             {"type":"directory","name":"partials","contents":[
               {"type":"directory","name":"home","contents":[
                 {"type":"file","name":"hero.html"}
-              ]},
+            ]},
               {"type":"directory","name":"icons","contents":[
                 {"type":"file","name":"bootstrap-logo-solid.svg"},
                 {"type":"file","name":"bootstrap-white-fill.svg"},
@@ -4728,7 +4879,7 @@
                 {"type":"file","name":"opencollective.svg"},
                 {"type":"file","name":"slack.svg"},
                 {"type":"file","name":"twitter.svg"}
-              ]},
+            ]},
               {"type":"file","name":"ads.html"},
               {"type":"file","name":"analytics.html"},
               {"type":"file","name":"favicons.html"},
@@ -4740,20 +4891,20 @@
               {"type":"file","name":"skippy.html"},
               {"type":"file","name":"social.html"},
               {"type":"file","name":"stylesheet.html"}
-            ]},
+          ]},
             {"type":"directory","name":"shortcodes","contents":[
               {"type":"file","name":"example.html"},
               {"type":"file","name":"md.html"}
-            ]},
+          ]},
             {"type":"file","name":"alias.html"},
             {"type":"file","name":"robots.txt"},
             {"type":"file","name":"sitemap.xml"}
-          ]},
+        ]},
           {"type":"directory","name":"static","contents":[
             {"type":"directory","name":"assets","contents":[
               {"type":"directory","name":"css","contents":[
                 {"type":"file","name":"bootstrap.min.css"}
-              ]},
+            ]},
               {"type":"directory","name":"img","contents":[
                 {"type":"directory","name":"favicons","contents":[
                   {"type":"file","name":"android-chrome-192x192.png"},
@@ -4764,29 +4915,29 @@
                   {"type":"file","name":"favicon.ico"},
                   {"type":"file","name":"manifest.json"},
                   {"type":"file","name":"safari-pinned-tab.svg"}
-                ]},
+              ]},
                 {"type":"file","name":"bootstrap-icons-social.png"},
                 {"type":"file","name":"bootstrap.svg"},
                 {"type":"file","name":"icons-hero@2x.png"},
                 {"type":"file","name":"icons-hero.png"}
-              ]},
+            ]},
               {"type":"directory","name":"js","contents":[
                 {"type":"file","name":"list.min.js"}
-              ]}
-            ]},
+            ]}
+          ]},
             {"type":"file","name":"CNAME"}
-          ]}
-        ]},
+        ]}
+      ]},
         {"type":"directory","name":"font","contents":[
           {"type":"directory","name":"fonts","contents":[
             {"type":"file","name":"bootstrap-icons.woff"},
             {"type":"file","name":"bootstrap-icons.woff2"}
-          ]},
+        ]},
           {"type":"file","name":"bootstrap-icons.css"},
           {"type":"file","name":"bootstrap-icons.json"},
           {"type":"file","name":"bootstrap-icons.scss"},
           {"type":"file","name":"index.html"}
-        ]},
+      ]},
         {"type":"directory","name":"icons","contents":[
           {"type":"file","name":"123.svg"},
           {"type":"file","name":"activity.svg"},
@@ -6456,7 +6607,7 @@
           {"type":"file","name":"youtube.svg"},
           {"type":"file","name":"zoom-in.svg"},
           {"type":"file","name":"zoom-out.svg"}
-        ]},
+      ]},
         {"type":"file","name":"bootstrap-icons.svg"},
         {"type":"file","name":"composer.json"},
         {"type":"file","name":"config.yml"},
@@ -6466,12 +6617,12 @@
         {"type":"file","name":"README.md"},
         {"type":"file","name":"svgo.config.js"},
         {"type":"file","name":"svg-sprite.json"}
-      ]},
+    ]},
       {"type":"directory","name":"1.8.3","contents":[
         {"type":"directory","name":"fonts","contents":[
           {"type":"file","name":"bootstrap-icons.woff"},
           {"type":"file","name":"bootstrap-icons.woff2"}
-        ]},
+      ]},
         {"type":"file","name":"123.svg"},
         {"type":"file","name":"activity.svg"},
         {"type":"file","name":"alarm-fill.svg"},
@@ -8145,12 +8296,12 @@
         {"type":"file","name":"youtube.svg"},
         {"type":"file","name":"zoom-in.svg"},
         {"type":"file","name":"zoom-out.svg"}
-      ]},
+    ]},
       {"type":"directory","name":"1.9.1","contents":[
         {"type":"directory","name":"fonts","contents":[
           {"type":"file","name":"bootstrap-icons.woff"},
           {"type":"file","name":"bootstrap-icons.woff2"}
-        ]},
+      ]},
         {"type":"file","name":"123.svg"},
         {"type":"file","name":"1-circle-fill.svg"},
         {"type":"file","name":"1-circle.svg"},
@@ -9967,24 +10118,24 @@
         {"type":"file","name":"youtube.svg"},
         {"type":"file","name":"zoom-in.svg"},
         {"type":"file","name":"zoom-out.svg"}
-      ]}
-    ]},
+    ]}
+  ]},
     {"type":"directory","name":"cookieconsent","contents":[
       {"type":"directory","name":"3.1.1","contents":[
         {"type":"file","name":"cookieconsent.min.css"},
         {"type":"file","name":"cookieconsent.min.js"}
-      ]}
-    ]},
+    ]}
+  ]},
     {"type":"directory","name":"d3","contents":[
       {"type":"directory","name":"7.1.1","contents":[
         {"type":"file","name":"d3.js"},
         {"type":"file","name":"d3.min.js"}
-      ]},
+    ]},
       {"type":"directory","name":"7.4.4","contents":[
         {"type":"file","name":"d3.js"},
         {"type":"file","name":"d3.min.js"}
-      ]}
-    ]},
+    ]}
+  ]},
     {"type":"directory","name":"fontawesome-free-web","contents":[
       {"type":"directory","name":"5.14.0","contents":[
         {"type":"directory","name":"css","contents":[
@@ -10002,7 +10153,7 @@
           {"type":"file","name":"svg-with-js.min.css"},
           {"type":"file","name":"v4-shims.css"},
           {"type":"file","name":"v4-shims.min.css"}
-        ]},
+      ]},
         {"type":"directory","name":"js","contents":[
           {"type":"file","name":"all.js"},
           {"type":"file","name":"all.min.js"},
@@ -10018,7 +10169,7 @@
           {"type":"file","name":"solid.min.js"},
           {"type":"file","name":"v4-shims.js"},
           {"type":"file","name":"v4-shims.min.js"}
-        ]},
+      ]},
         {"type":"directory","name":"less","contents":[
           {"type":"file","name":"_animated.less"},
           {"type":"file","name":"_bordered-pulled.less"},
@@ -10038,7 +10189,7 @@
           {"type":"file","name":"_stacked.less"},
           {"type":"file","name":"v4-shims.less"},
           {"type":"file","name":"_variables.less"}
-        ]},
+      ]},
         {"type":"directory","name":"metadata","contents":[
           {"type":"file","name":"categories.yml"},
           {"type":"file","name":"icons.json"},
@@ -10046,7 +10197,7 @@
           {"type":"file","name":"shims.json"},
           {"type":"file","name":"shims.yml"},
           {"type":"file","name":"sponsors.yml"}
-        ]},
+      ]},
         {"type":"directory","name":"scss","contents":[
           {"type":"file","name":"_animated.scss"},
           {"type":"file","name":"_bordered-pulled.scss"},
@@ -10066,12 +10217,12 @@
           {"type":"file","name":"_stacked.scss"},
           {"type":"file","name":"v4-shims.scss"},
           {"type":"file","name":"_variables.scss"}
-        ]},
+      ]},
         {"type":"directory","name":"sprites","contents":[
           {"type":"file","name":"brands.svg"},
           {"type":"file","name":"regular.svg"},
           {"type":"file","name":"solid.svg"}
-        ]},
+      ]},
         {"type":"directory","name":"svgs","contents":[
           {"type":"directory","name":"brands","contents":[
             {"type":"file","name":"500px.svg"},
@@ -10523,7 +10674,7 @@
             {"type":"file","name":"youtube-square.svg"},
             {"type":"file","name":"youtube.svg"},
             {"type":"file","name":"zhihu.svg"}
-          ]},
+        ]},
           {"type":"directory","name":"regular","contents":[
             {"type":"file","name":"address-book.svg"},
             {"type":"file","name":"address-card.svg"},
@@ -10677,7 +10828,7 @@
             {"type":"file","name":"window-maximize.svg"},
             {"type":"file","name":"window-minimize.svg"},
             {"type":"file","name":"window-restore.svg"}
-          ]},
+        ]},
           {"type":"directory","name":"solid","contents":[
             {"type":"file","name":"address-book.svg"},
             {"type":"file","name":"address-card.svg"},
@@ -11679,8 +11830,8 @@
             {"type":"file","name":"x-ray.svg"},
             {"type":"file","name":"yen-sign.svg"},
             {"type":"file","name":"yin-yang.svg"}
-          ]}
-        ]},
+        ]}
+      ]},
         {"type":"directory","name":"webfonts","contents":[
           {"type":"file","name":"fa-brands-400.eot"},
           {"type":"file","name":"fa-brands-400.svg"},
@@ -11697,9 +11848,9 @@
           {"type":"file","name":"fa-solid-900.ttf"},
           {"type":"file","name":"fa-solid-900.woff"},
           {"type":"file","name":"fa-solid-900.woff2"}
-        ]},
-        {"type":"file","name":"LICENSE.txt"}
       ]},
+        {"type":"file","name":"LICENSE.txt"}
+    ]},
       {"type":"directory","name":"5.15.4","contents":[
         {"type":"directory","name":"css","contents":[
           {"type":"file","name":"all.css"},
@@ -11716,7 +11867,7 @@
           {"type":"file","name":"svg-with-js.min.css"},
           {"type":"file","name":"v4-shims.css"},
           {"type":"file","name":"v4-shims.min.css"}
-        ]},
+      ]},
         {"type":"directory","name":"js","contents":[
           {"type":"file","name":"all.js"},
           {"type":"file","name":"all.min.js"},
@@ -11732,7 +11883,7 @@
           {"type":"file","name":"solid.min.js"},
           {"type":"file","name":"v4-shims.js"},
           {"type":"file","name":"v4-shims.min.js"}
-        ]},
+      ]},
         {"type":"directory","name":"less","contents":[
           {"type":"file","name":"_animated.less"},
           {"type":"file","name":"_bordered-pulled.less"},
@@ -11752,7 +11903,7 @@
           {"type":"file","name":"_stacked.less"},
           {"type":"file","name":"v4-shims.less"},
           {"type":"file","name":"_variables.less"}
-        ]},
+      ]},
         {"type":"directory","name":"metadata","contents":[
           {"type":"file","name":"categories.yml"},
           {"type":"file","name":"icons.json"},
@@ -11760,7 +11911,7 @@
           {"type":"file","name":"shims.json"},
           {"type":"file","name":"shims.yml"},
           {"type":"file","name":"sponsors.yml"}
-        ]},
+      ]},
         {"type":"directory","name":"scss","contents":[
           {"type":"file","name":"_animated.scss"},
           {"type":"file","name":"_bordered-pulled.scss"},
@@ -11780,12 +11931,12 @@
           {"type":"file","name":"_stacked.scss"},
           {"type":"file","name":"v4-shims.scss"},
           {"type":"file","name":"_variables.scss"}
-        ]},
+      ]},
         {"type":"directory","name":"sprites","contents":[
           {"type":"file","name":"brands.svg"},
           {"type":"file","name":"regular.svg"},
           {"type":"file","name":"solid.svg"}
-        ]},
+      ]},
         {"type":"directory","name":"svgs","contents":[
           {"type":"directory","name":"brands","contents":[
             {"type":"file","name":"500px.svg"},
@@ -12245,7 +12396,7 @@
             {"type":"file","name":"youtube-square.svg"},
             {"type":"file","name":"youtube.svg"},
             {"type":"file","name":"zhihu.svg"}
-          ]},
+        ]},
           {"type":"directory","name":"regular","contents":[
             {"type":"file","name":"address-book.svg"},
             {"type":"file","name":"address-card.svg"},
@@ -12399,7 +12550,7 @@
             {"type":"file","name":"window-maximize.svg"},
             {"type":"file","name":"window-minimize.svg"},
             {"type":"file","name":"window-restore.svg"}
-          ]},
+        ]},
           {"type":"directory","name":"solid","contents":[
             {"type":"file","name":"address-book.svg"},
             {"type":"file","name":"address-card.svg"},
@@ -13403,8 +13554,8 @@
             {"type":"file","name":"x-ray.svg"},
             {"type":"file","name":"yen-sign.svg"},
             {"type":"file","name":"yin-yang.svg"}
-          ]}
-        ]},
+        ]}
+      ]},
         {"type":"directory","name":"webfonts","contents":[
           {"type":"file","name":"fa-brands-400.eot"},
           {"type":"file","name":"fa-brands-400.svg"},
@@ -13421,10 +13572,10 @@
           {"type":"file","name":"fa-solid-900.ttf"},
           {"type":"file","name":"fa-solid-900.woff"},
           {"type":"file","name":"fa-solid-900.woff2"}
-        ]},
+      ]},
         {"type":"file","name":"attribution.js"},
         {"type":"file","name":"LICENSE.txt"}
-      ]},
+    ]},
       {"type":"directory","name":"6.0.0-beta2","contents":[
         {"type":"directory","name":"css","contents":[
           {"type":"file","name":"all.css"},
@@ -13441,7 +13592,7 @@
           {"type":"file","name":"svg-with-js.min.css"},
           {"type":"file","name":"v4-shims.css"},
           {"type":"file","name":"v4-shims.min.css"}
-        ]},
+      ]},
         {"type":"directory","name":"js","contents":[
           {"type":"file","name":"all.js"},
           {"type":"file","name":"all.min.js"},
@@ -13457,7 +13608,7 @@
           {"type":"file","name":"solid.min.js"},
           {"type":"file","name":"v4-shims.js"},
           {"type":"file","name":"v4-shims.min.js"}
-        ]},
+      ]},
         {"type":"directory","name":"less","contents":[
           {"type":"file","name":"_animated.less"},
           {"type":"file","name":"_bordered-pulled.less"},
@@ -13477,7 +13628,7 @@
           {"type":"file","name":"_stacked.less"},
           {"type":"file","name":"v4-shims.less"},
           {"type":"file","name":"_variables.less"}
-        ]},
+      ]},
         {"type":"directory","name":"scss","contents":[
           {"type":"file","name":"_animated.scss"},
           {"type":"file","name":"_bordered-pulled.scss"},
@@ -13498,12 +13649,12 @@
           {"type":"file","name":"_stacked.scss"},
           {"type":"file","name":"v4-shims.scss"},
           {"type":"file","name":"_variables.scss"}
-        ]},
+      ]},
         {"type":"directory","name":"sprites","contents":[
           {"type":"file","name":"brands.svg"},
           {"type":"file","name":"regular.svg"},
           {"type":"file","name":"solid.svg"}
-        ]},
+      ]},
         {"type":"directory","name":"svgs","contents":[
           {"type":"directory","name":"brands","contents":[
             {"type":"file","name":"42-group.svg"},
@@ -13965,7 +14116,7 @@
             {"type":"file","name":"youtube-square.svg"},
             {"type":"file","name":"youtube.svg"},
             {"type":"file","name":"zhihu.svg"}
-          ]},
+        ]},
           {"type":"directory","name":"regular","contents":[
             {"type":"file","name":"address-book.svg"},
             {"type":"file","name":"address-card.svg"},
@@ -14126,7 +14277,7 @@
             {"type":"file","name":"window-maximize.svg"},
             {"type":"file","name":"window-minimize.svg"},
             {"type":"file","name":"window-restore.svg"}
-          ]},
+        ]},
           {"type":"directory","name":"solid","contents":[
             {"type":"file","name":"0.svg"},
             {"type":"file","name":"1.svg"},
@@ -15214,8 +15365,8 @@
             {"type":"file","name":"yin-yang.svg"},
             {"type":"file","name":"y.svg"},
             {"type":"file","name":"z.svg"}
-          ]}
-        ]},
+        ]}
+      ]},
         {"type":"directory","name":"webfonts","contents":[
           {"type":"file","name":"fa-brands-400.ttf"},
           {"type":"file","name":"fa-brands-400.woff2"},
@@ -15223,10 +15374,10 @@
           {"type":"file","name":"fa-regular-400.woff2"},
           {"type":"file","name":"fa-solid-900.ttf"},
           {"type":"file","name":"fa-solid-900.woff2"}
-        ]},
+      ]},
         {"type":"file","name":"attribution.js"},
         {"type":"file","name":"LICENSE.txt"}
-      ]},
+    ]},
       {"type":"directory","name":"6.1.1","contents":[
         {"type":"directory","name":"css","contents":[
           {"type":"file","name":"all.css"},
@@ -15247,7 +15398,7 @@
           {"type":"file","name":"v4-shims.min.css"},
           {"type":"file","name":"v5-font-face.css"},
           {"type":"file","name":"v5-font-face.min.css"}
-        ]},
+      ]},
         {"type":"directory","name":"js","contents":[
           {"type":"file","name":"all.js"},
           {"type":"file","name":"all.min.js"},
@@ -15263,7 +15414,7 @@
           {"type":"file","name":"solid.min.js"},
           {"type":"file","name":"v4-shims.js"},
           {"type":"file","name":"v4-shims.min.js"}
-        ]},
+      ]},
         {"type":"directory","name":"less","contents":[
           {"type":"file","name":"_animated.less"},
           {"type":"file","name":"_bordered-pulled.less"},
@@ -15283,7 +15434,7 @@
           {"type":"file","name":"_stacked.less"},
           {"type":"file","name":"v4-shims.less"},
           {"type":"file","name":"_variables.less"}
-        ]},
+      ]},
         {"type":"directory","name":"metadata","contents":[
           {"type":"file","name":"categories.yml"},
           {"type":"file","name":"icons.json"},
@@ -15291,7 +15442,7 @@
           {"type":"file","name":"shims.json"},
           {"type":"file","name":"shims.yml"},
           {"type":"file","name":"sponsors.yml"}
-        ]},
+      ]},
         {"type":"directory","name":"scss","contents":[
           {"type":"file","name":"_animated.scss"},
           {"type":"file","name":"_bordered-pulled.scss"},
@@ -15312,12 +15463,12 @@
           {"type":"file","name":"_stacked.scss"},
           {"type":"file","name":"v4-shims.scss"},
           {"type":"file","name":"_variables.scss"}
-        ]},
+      ]},
         {"type":"directory","name":"sprites","contents":[
           {"type":"file","name":"brands.svg"},
           {"type":"file","name":"regular.svg"},
           {"type":"file","name":"solid.svg"}
-        ]},
+      ]},
         {"type":"directory","name":"svgs","contents":[
           {"type":"directory","name":"brands","contents":[
             {"type":"file","name":"42-group.svg"},
@@ -15782,7 +15933,7 @@
             {"type":"file","name":"youtube-square.svg"},
             {"type":"file","name":"youtube.svg"},
             {"type":"file","name":"zhihu.svg"}
-          ]},
+        ]},
           {"type":"directory","name":"regular","contents":[
             {"type":"file","name":"address-book.svg"},
             {"type":"file","name":"address-card.svg"},
@@ -15946,7 +16097,7 @@
             {"type":"file","name":"window-maximize.svg"},
             {"type":"file","name":"window-minimize.svg"},
             {"type":"file","name":"window-restore.svg"}
-          ]},
+        ]},
           {"type":"directory","name":"solid","contents":[
             {"type":"file","name":"0.svg"},
             {"type":"file","name":"1.svg"},
@@ -17333,8 +17484,8 @@
             {"type":"file","name":"yin-yang.svg"},
             {"type":"file","name":"y.svg"},
             {"type":"file","name":"z.svg"}
-          ]}
-        ]},
+        ]}
+      ]},
         {"type":"directory","name":"webfonts","contents":[
           {"type":"file","name":"fa-brands-400.ttf"},
           {"type":"file","name":"fa-brands-400.woff2"},
@@ -17344,22 +17495,22 @@
           {"type":"file","name":"fa-solid-900.woff2"},
           {"type":"file","name":"fa-v4compatibility.ttf"},
           {"type":"file","name":"fa-v4compatibility.woff2"}
-        ]},
+      ]},
         {"type":"file","name":"LICENSE.txt"}
-      ]}
-    ]},
+    ]}
+  ]},
     {"type":"directory","name":"jquery","contents":[
       {"type":"directory","name":"3.5.1","contents":[
         {"type":"file","name":"jquery.js"},
         {"type":"file","name":"jquery.min.js"},
         {"type":"file","name":"jquery.min.map"}
-      ]},
+    ]},
       {"type":"directory","name":"3.6.0","contents":[
         {"type":"file","name":"jquery-3.6.0.js"},
         {"type":"file","name":"jquery-3.6.0.min.js"},
         {"type":"file","name":"jquery-3.6.0.min.map"}
-      ]}
-    ]},
+    ]}
+  ]},
     {"type":"directory","name":"popper.js","contents":[
       {"type":"directory","name":"1.16.0","contents":[
         {"type":"file","name":"popper.js"},
@@ -17371,20 +17522,20 @@
         {"type":"file","name":"popper-utils.js.map"},
         {"type":"file","name":"popper-utils.min.js"},
         {"type":"file","name":"popper-utils.min.js.map"}
-      ]}
-    ]},
+    ]}
+  ]},
     {"type":"directory","name":"qunit","contents":[
       {"type":"directory","name":"2.17.2","contents":[
         {"type":"file","name":"qunit.css"},
         {"type":"file","name":"qunit.js"}
-      ]}
-    ]},
+    ]}
+  ]},
     {"type":"directory","name":"select2","contents":[
       {"type":"directory","name":"4.0.13","contents":[
         {"type":"directory","name":"css","contents":[
           {"type":"file","name":"select2.css"},
           {"type":"file","name":"select2.min.css"}
-        ]},
+      ]},
         {"type":"directory","name":"js","contents":[
           {"type":"directory","name":"i18n","contents":[
             {"type":"file","name":"af.js"},
@@ -17447,28 +17598,29 @@
             {"type":"file","name":"vi.js"},
             {"type":"file","name":"zh-CN.js"},
             {"type":"file","name":"zh-TW.js"}
-          ]},
+        ]},
           {"type":"file","name":"select2.full.js"},
           {"type":"file","name":"select2.full.min.js"},
           {"type":"file","name":"select2.js"},
           {"type":"file","name":"select2.min.js"}
-        ]}
       ]}
-    ]},
+    ]}
+  ]},
     {"type":"directory","name":"w3.css","contents":[
       {"type":"directory","name":"4.13","contents":[
         {"type":"file","name":"w3.css"}
-      ]},
+    ]},
       {"type":"directory","name":"4.15","contents":[
         {"type":"file","name":"w3.css"}
-      ]}
-    ]},
+    ]}
+  ]},
     {"type":"directory","name":"w3.js","contents":[
       {"type":"directory","name":"1.04","contents":[
         {"type":"file","name":"w3.js"}
-      ]}
-    ]},
-    {"type":"file","name":"robots.txt"}
+    ]}
   ]},
-  {"type":"report","directories":121,"files":17228}
+    {"type":"file","name":"robots.txt"}
+  ]}
+,
+  {"type":"report","directories":130,"files":17360}
 ]
