@@ -17988,6 +17988,10 @@
         <file name="d3.js"></file>
         <file name="d3.min.js"></file>
     </directory>
+      <directory name="7.8.1">
+        <file name="d3.js"></file>
+        <file name="d3.min.js"></file>
+    </directory>
   </directory>
     <directory name="fontawesome-free-web">
       <directory name="5.14.0">
@@ -25475,7 +25479,7 @@
     <file name="robots.txt"></file>
   </directory>
   <report>
-    <directories>138</directories>
-    <files>25196</files>
+    <directories>139</directories>
+    <files>25198</files>
   </report>
 </tree>
