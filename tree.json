@@ -25365,6 +25365,11 @@
         {"type":"file","name":"jquery-3.6.0.js"},
         {"type":"file","name":"jquery-3.6.0.min.js"},
         {"type":"file","name":"jquery-3.6.0.min.map"}
+    ]},
+      {"type":"directory","name":"3.6.3","contents":[
+        {"type":"file","name":"jquery.js"},
+        {"type":"file","name":"jquery.min.js"},
+        {"type":"file","name":"jquery.min.map"}
     ]}
   ]},
     {"type":"directory","name":"popper.js","contents":[
@@ -25478,5 +25483,5 @@
     {"type":"file","name":"robots.txt"}
   ]}
 ,
-  {"type":"report","directories":139,"files":25198}
+  {"type":"report","directories":140,"files":25201}
 ]
