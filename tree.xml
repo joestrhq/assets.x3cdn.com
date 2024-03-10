@@ -1286,6 +1286,56 @@
           <file name="bootstrap.min.js.map"></file>
       </directory>
     </directory>
+      <directory name="5.3.3">
+        <directory name="css">
+          <file name="bootstrap.css"></file>
+          <file name="bootstrap.css.map"></file>
+          <file name="bootstrap-grid.css"></file>
+          <file name="bootstrap-grid.css.map"></file>
+          <file name="bootstrap-grid.min.css"></file>
+          <file name="bootstrap-grid.min.css.map"></file>
+          <file name="bootstrap-grid.rtl.css"></file>
+          <file name="bootstrap-grid.rtl.css.map"></file>
+          <file name="bootstrap-grid.rtl.min.css"></file>
+          <file name="bootstrap-grid.rtl.min.css.map"></file>
+          <file name="bootstrap.min.css"></file>
+          <file name="bootstrap.min.css.map"></file>
+          <file name="bootstrap-reboot.css"></file>
+          <file name="bootstrap-reboot.css.map"></file>
+          <file name="bootstrap-reboot.min.css"></file>
+          <file name="bootstrap-reboot.min.css.map"></file>
+          <file name="bootstrap-reboot.rtl.css"></file>
+          <file name="bootstrap-reboot.rtl.css.map"></file>
+          <file name="bootstrap-reboot.rtl.min.css"></file>
+          <file name="bootstrap-reboot.rtl.min.css.map"></file>
+          <file name="bootstrap.rtl.css"></file>
+          <file name="bootstrap.rtl.css.map"></file>
+          <file name="bootstrap.rtl.min.css"></file>
+          <file name="bootstrap.rtl.min.css.map"></file>
+          <file name="bootstrap-utilities.css"></file>
+          <file name="bootstrap-utilities.css.map"></file>
+          <file name="bootstrap-utilities.min.css"></file>
+          <file name="bootstrap-utilities.min.css.map"></file>
+          <file name="bootstrap-utilities.rtl.css"></file>
+          <file name="bootstrap-utilities.rtl.css.map"></file>
+          <file name="bootstrap-utilities.rtl.min.css"></file>
+          <file name="bootstrap-utilities.rtl.min.css.map"></file>
+      </directory>
+        <directory name="js">
+          <file name="bootstrap.bundle.js"></file>
+          <file name="bootstrap.bundle.js.map"></file>
+          <file name="bootstrap.bundle.min.js"></file>
+          <file name="bootstrap.bundle.min.js.map"></file>
+          <file name="bootstrap.esm.js"></file>
+          <file name="bootstrap.esm.js.map"></file>
+          <file name="bootstrap.esm.min.js"></file>
+          <file name="bootstrap.esm.min.js.map"></file>
+          <file name="bootstrap.js"></file>
+          <file name="bootstrap.js.map"></file>
+          <file name="bootstrap.min.js"></file>
+          <file name="bootstrap.min.js.map"></file>
+      </directory>
+    </directory>
   </directory>
     <directory name="bootstrap-icons">
       <directory name="1.10.0">
@@ -56932,7 +56982,7 @@
     <file name="robots.txt"></file>
   </directory>
   <report>
-    <directories>344</directories>
-    <files>56241</files>
+    <directories>347</directories>
+    <files>56285</files>
   </report>
 </tree>

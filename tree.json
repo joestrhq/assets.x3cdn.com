@@ -1284,6 +1284,56 @@
           {"type":"file","name":"bootstrap.min.js"},
           {"type":"file","name":"bootstrap.min.js.map"}
       ]}
+    ]},
+      {"type":"directory","name":"5.3.3","contents":[
+        {"type":"directory","name":"css","contents":[
+          {"type":"file","name":"bootstrap.css"},
+          {"type":"file","name":"bootstrap.css.map"},
+          {"type":"file","name":"bootstrap-grid.css"},
+          {"type":"file","name":"bootstrap-grid.css.map"},
+          {"type":"file","name":"bootstrap-grid.min.css"},
+          {"type":"file","name":"bootstrap-grid.min.css.map"},
+          {"type":"file","name":"bootstrap-grid.rtl.css"},
+          {"type":"file","name":"bootstrap-grid.rtl.css.map"},
+          {"type":"file","name":"bootstrap-grid.rtl.min.css"},
+          {"type":"file","name":"bootstrap-grid.rtl.min.css.map"},
+          {"type":"file","name":"bootstrap.min.css"},
+          {"type":"file","name":"bootstrap.min.css.map"},
+          {"type":"file","name":"bootstrap-reboot.css"},
+          {"type":"file","name":"bootstrap-reboot.css.map"},
+          {"type":"file","name":"bootstrap-reboot.min.css"},
+          {"type":"file","name":"bootstrap-reboot.min.css.map"},
+          {"type":"file","name":"bootstrap-reboot.rtl.css"},
+          {"type":"file","name":"bootstrap-reboot.rtl.css.map"},
+          {"type":"file","name":"bootstrap-reboot.rtl.min.css"},
+          {"type":"file","name":"bootstrap-reboot.rtl.min.css.map"},
+          {"type":"file","name":"bootstrap.rtl.css"},
+          {"type":"file","name":"bootstrap.rtl.css.map"},
+          {"type":"file","name":"bootstrap.rtl.min.css"},
+          {"type":"file","name":"bootstrap.rtl.min.css.map"},
+          {"type":"file","name":"bootstrap-utilities.css"},
+          {"type":"file","name":"bootstrap-utilities.css.map"},
+          {"type":"file","name":"bootstrap-utilities.min.css"},
+          {"type":"file","name":"bootstrap-utilities.min.css.map"},
+          {"type":"file","name":"bootstrap-utilities.rtl.css"},
+          {"type":"file","name":"bootstrap-utilities.rtl.css.map"},
+          {"type":"file","name":"bootstrap-utilities.rtl.min.css"},
+          {"type":"file","name":"bootstrap-utilities.rtl.min.css.map"}
+      ]},
+        {"type":"directory","name":"js","contents":[
+          {"type":"file","name":"bootstrap.bundle.js"},
+          {"type":"file","name":"bootstrap.bundle.js.map"},
+          {"type":"file","name":"bootstrap.bundle.min.js"},
+          {"type":"file","name":"bootstrap.bundle.min.js.map"},
+          {"type":"file","name":"bootstrap.esm.js"},
+          {"type":"file","name":"bootstrap.esm.js.map"},
+          {"type":"file","name":"bootstrap.esm.min.js"},
+          {"type":"file","name":"bootstrap.esm.min.js.map"},
+          {"type":"file","name":"bootstrap.js"},
+          {"type":"file","name":"bootstrap.js.map"},
+          {"type":"file","name":"bootstrap.min.js"},
+          {"type":"file","name":"bootstrap.min.js.map"}
+      ]}
     ]}
   ]},
     {"type":"directory","name":"bootstrap-icons","contents":[
@@ -56931,5 +56981,5 @@
     {"type":"file","name":"robots.txt"}
   ]}
 ,
-  {"type":"report","directories":344,"files":56241}
+  {"type":"report","directories":347,"files":56285}
 ]
